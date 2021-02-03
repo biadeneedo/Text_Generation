@@ -9,3 +9,5 @@ The focus of this challenge is on five different points:
 - **Encode data** in an readable and efficient format to feed them in the models
 - **Develop and run** multiple different **models**
 - **Test the performance** of the models using different metrics
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
