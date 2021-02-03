@@ -12,7 +12,7 @@ The focus of this challenge is on five different points:
 
 ![Screenshot](Pic_Framework.JPG)
 
-We take into considerations those steps for the analysis:
+Data preprocessing relies on those milestones:
 - **Text Augmentation** : Generation of synthetic data for improving model performance without manual effort. The Genius python library is used
 to generate new lyrics
 - **Normalization** : Removing noise, special characters, stop words, ext..
