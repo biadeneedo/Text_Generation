@@ -10,4 +10,4 @@ The focus of this challenge is on five different points:
 - **Develop and run** multiple different **models**
 - **Test the performance** of the models using different metrics
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Screenshot](Pic_Framework.JPG)
